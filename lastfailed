@@ -1,0 +1,4 @@
+{
+  "backend/tests/test_predictions.py::TestClient": true,
+  "backend/tests/test_websocket.py::TestClient": true
+}

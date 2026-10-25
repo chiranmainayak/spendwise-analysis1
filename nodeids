@@ -1,0 +1,13 @@
+[
+  "backend/tests/test_loader.py::test_all_categories_defined",
+  "backend/tests/test_loader.py::test_data_file_exists",
+  "backend/tests/test_loader.py::test_format_date_str",
+  "backend/tests/test_loader.py::test_format_time_str",
+  "backend/tests/test_predictions.py::test_about_page_metrics_endpoint",
+  "backend/tests/test_predictions.py::test_diff_calculation_endpoint",
+  "backend/tests/test_predictions.py::test_expected_amount_endpoint",
+  "backend/tests/test_predictions.py::test_ml_trainer_evaluation",
+  "backend/tests/test_predictions.py::test_suggest_category_endpoint",
+  "backend/tests/test_websocket.py::test_websocket_broadcast_on_new_transaction",
+  "backend/tests/test_websocket.py::test_websocket_connection_and_heartbeat"
+]
